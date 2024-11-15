@@ -1,0 +1,18 @@
+{
+  "id": "did:web:mstaufer.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:mstaufer.github.io:did-web-demo#74c1d64bc6e18729fe14b6f014166cac2592bcf0a7efd283762aa1ee2dc6d212",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:mstaufer.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "0RymXc61Ghmc_c3ce1Noqx-VrtdlFVGXkPLR3nWHcNceJgGhG-FR4ioY88ECzRUB",
+        "y": "DmdCrMFjO-DrqFm3prLUT33eMntIXeCjpHb_PlT4VbAfKk00LQRVi1lILfCMu5TH",
+        "kid": "#74c1d64bc6e18729fe14b6f014166cac2592bcf0a7efd283762aa1ee2dc6d212",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
